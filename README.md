@@ -1,3 +1,3 @@
 # hey Harsh
 
-Github repo to tell about git only 
+Github repo to tell about git only!
